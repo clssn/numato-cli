@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "numato-cli"
-version = "0.1.0"
+version = "0.2.0.dev0"
 description = "Command-line interface for Numato GPIO expanders"
 authors = ["Henning Claßen <code@clssn.de>"]
 readme = "README.rst"
